@@ -10,7 +10,7 @@ Key features:
 
 ⚙️ Powered by Gemini 2.5: Uses Google’s Gemini-2.5 Flash model for high-speed, high-quality responses.
 
-🌐 Streamlit Interface: An intuitive web interface for real-time interaction. (https://medical-assistant-chatbot.streamlit.app/)
+🌐 Streamlit Interface: An intuitive web interface for real-time interaction. (https://medical-assistant-chatbots.streamlit.app/)
 
 🔐 Secure API Key Input: Users can provide their own Gemini API key to access the model securely.
 
