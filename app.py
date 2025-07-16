@@ -14,7 +14,7 @@ api_key = st.text_input("Enter your Gemini API Key:", type="password")
 # Input Question
 user_question = st.text_area("Ask a medical question:", placeholder="e.g., What causes a sore throat?")
 
-if st.button("Ask Gemini") and api_key and user_question:
+if st.button("Submit") and api_key and user_question:
     try:
         # Defining The System Prompt
         system_prompt = (
