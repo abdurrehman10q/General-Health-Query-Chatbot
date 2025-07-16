@@ -36,5 +36,5 @@ if st.button("Submit") and api_key and user_question:
         st.success("Response from Chatbot:")
         st.write(response.text)
 
-    except Exception as e:
-        st.error(f"An error occurred: {e}")
+    except:
+        st.error(f"Enter your API key")
