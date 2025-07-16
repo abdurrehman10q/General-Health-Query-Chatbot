@@ -1,4 +1,4 @@
-# 🩺 General-Health-Query-Chatbot
+# 🩺 Medical-Assistant-Chatbot
 
 The General Health Query Chatbot is an AI-powered assistant designed to provide users with accurate, friendly, and informative responses to general health-related questions. Built using Google's Gemini API, the chatbot leverages cutting-edge generative AI to simulate human-like conversation while ensuring user safety by strictly avoiding harmful medical advice.
 
