@@ -7,7 +7,7 @@ from google.genai import types
 
 st.set_page_config(page_title="Medical Assistant Chatbot", page_icon="🩺")
 st.title("🩺 Medical Assistant Chatbot")
-st.write("Develpoed By Abdur Rehman")
+st.write("Developed By Abdur Rehman")
 # API Key Input
 api_key = st.text_input("Enter your Gemini API Key:", type="password")
 
