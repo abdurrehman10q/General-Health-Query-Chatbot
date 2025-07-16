@@ -6,7 +6,7 @@ from google.genai import types
 # STREAMLIT INTERFACE
 
 st.set_page_config(page_title="Medical Assistant Chatbot", page_icon="🩺")
-st.title("🩺 General Health Query Chatbot")
+st.title("🩺 Medical Assistant Chatbot")
 st.write("Develpoed By Abdur Rehman")
 # API Key Input
 api_key = st.text_input("Enter your Gemini API Key:", type="password")
